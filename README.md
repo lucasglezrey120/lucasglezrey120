@@ -1,4 +1,4 @@
-### Hi there 👋
+### What it do 🤙
 
 <!--
 **lucasglezrey120/lucasglezrey120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
